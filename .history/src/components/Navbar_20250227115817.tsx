@@ -8,9 +8,9 @@ const Navbar = () => {
         <Link to="/" className="text-2xl font-bold text-primary">ANKKOR</Link>
         
         <div className="hidden md:flex items-center space-x-8">
-          <Link to="/marketplace" className="nav-link">Shirts</Link>
-          <Link to="/marketplace" className="nav-link">Lowers</Link>
-          <Link to="/marketplace" className="nav-link">Polos</Link>
+          <Link to="/marketplace" className="nav-link">Mobile phone</Link>
+          <Link to="/marketplace" className="nav-link">Laptop</Link>
+          <Link to="/marketplace" className="nav-link">Gadget</Link>
         </div>
 
         <div className="flex items-center space-x-6">

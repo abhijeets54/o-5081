@@ -8,9 +8,6 @@ interface ProductCardProps {
   image: string;
   rating: number;
   reviews: number;
-  material: string;
-  isNew: boolean;
-  whileHover: number;
 }
 
 const ProductCard = ({ id = 1, name, price, image, rating, reviews }: ProductCardProps) => {

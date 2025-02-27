@@ -10,7 +10,7 @@ interface ProductCardProps {
   reviews: number;
   material: string;
   isNew: boolean;
-  whileHover: number;
+  whileHover
 }
 
 const ProductCard = ({ id = 1, name, price, image, rating, reviews }: ProductCardProps) => {

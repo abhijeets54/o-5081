@@ -323,7 +323,7 @@ const Index = () => {
             <p className="text-[#8a8778] text-sm mb-3 tracking-widest uppercase">Our Heritage</p>
             <h2 className="text-4xl font-serif font-bold text-[#2c2c27]">The Ankkor Legacy</h2>
             <p className="text-[#5c5c52] leading-relaxed">
-               Ankkor is synonymous with impeccable taste and understated luxury. 
+               Ankkor has been synonymous with impeccable taste and understated luxury. 
               Our garments are crafted with meticulous attention to detail using time-honored techniques that 
               have been perfected over generations.
             </p>

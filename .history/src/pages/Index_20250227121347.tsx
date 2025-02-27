@@ -80,7 +80,7 @@ const Index = () => {
               className="rounded-sm shadow-lg relative z-10 grayscale hover:grayscale-0 transition-all duration-700 border border-[#e5e2d9]"
             />
             <div className="absolute -bottom-6 -left-6 bg-[#2c2c27] text-[#f4f3f0] py-4 px-8 text-sm tracking-wider uppercase z-20 hidden md:block">
-              Est. 2025
+              Est. 1983
             </div>
           </motion.div>
         </div>
@@ -234,7 +234,7 @@ const Index = () => {
                 rating={4}
                 reviews={18}
                 material="Cotton Twill"
-                isNew={true}
+                
               />
             </motion.div>
             <motion.div variants={fadeIn} whileHover={{ y: -5 }} transition={{ duration: 0.3 }}>
@@ -256,7 +256,6 @@ const Index = () => {
                 rating={4}
                 reviews={21}
                 material="Italian Wool"
-                isNew={true}
               />
             </motion.div>
           </div>
@@ -323,7 +322,7 @@ const Index = () => {
             <p className="text-[#8a8778] text-sm mb-3 tracking-widest uppercase">Our Heritage</p>
             <h2 className="text-4xl font-serif font-bold text-[#2c2c27]">The Ankkor Legacy</h2>
             <p className="text-[#5c5c52] leading-relaxed">
-               Ankkor is synonymous with impeccable taste and understated luxury. 
+              Since 1983, Ankkor has been synonymous with impeccable taste and understated luxury. 
               Our garments are crafted with meticulous attention to detail using time-honored techniques that 
               have been perfected over generations.
             </p>
